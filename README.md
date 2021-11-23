@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/DivyanshuSingh96/https://1.bp.blogspot.com/-QYpOugKICbY/YGnjEkaapKI/AAAAAAAAD8A/K6938ckT5wcFQ9Kc6iNS9xHuAFzu_H8swCLcBGAsYHQ/w1200-h630-p-k-no-nu/awesomePython.jpg "Header")](https://awesomepythonlibraries.blogspot.com/)
+[![Header](https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/https://1.bp.blogspot.com/-QYpOugKICbY/YGnjEkaapKI/AAAAAAAAD8A/K6938ckT5wcFQ9Kc6iNS9xHuAFzu_H8swCLcBGAsYHQ/w1200-h630-p-k-no-nu/awesomePython.jpg "Header")](https://awesomepythonlibraries.blogspot.com/)
+
+![](https://img.shields.io/badge/Python-0175c2?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/HTML5-dc322f?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-2c2d72?style=flat&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Javascript-feaa2d?style=flat&logo=javascript&logoColor=white)
 
 <!--https://1.bp.blogspot.com/-QYpOugKICbY/YGnjEkaapKI/AAAAAAAAD8A/K6938ckT5wcFQ9Kc6iNS9xHuAFzu_H8swCLcBGAsYHQ/w1200-h630-p-k-no-nu/awesomePython.jpg
 
@@ -12,8 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuSingh96)](https://github.com/DivyanshuSingh96/stylizers)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuSingh96&layout=compact)](https://github.com/DivyanshuSingh96/stylizers)
-
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuSingh96&layout=compact)](https://github.com/DivyanshuSingh96/stylizers)-->
 
 <!--
 **DivyanshuSingh96/DivyanshuSingh96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
