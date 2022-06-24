@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![Header](https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/https://1.bp.blogspot.com/-QYpOugKICbY/YGnjEkaapKI/AAAAAAAAD8A/K6938ckT5wcFQ9Kc6iNS9xHuAFzu_H8swCLcBGAsYHQ/w1200-h630-p-k-no-nu/awesomePython.jpg "Header")](https://awesomepythonlibraries.blogspot.com/)
+### Hi there
 
 ![](https://img.shields.io/badge/Python-0175c2?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/HTML5-dc322f?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-2c2d72?style=flat&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Javascript-feaa2d?style=flat&logo=javascript&logoColor=white)
 
