@@ -12,7 +12,7 @@
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DivyanshuSingh96&repo=AnimeX)](https://github.com/DivyanshuSingh96/AnimeX)-->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuSingh96)](https://github.com/DivyanshuSingh96/stylizers)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuSingh96)](https://github.com/DivyanshuSingh96/stylizers)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuSingh96&layout=compact)](https://github.com/DivyanshuSingh96/stylizers)-->
 
