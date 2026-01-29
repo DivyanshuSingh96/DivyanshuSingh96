@@ -41,6 +41,18 @@ I am a **Research Engineer** obsessed with the gap between *theoretical security
 
 ---
 
+### 🧱 Engineering Dashboard
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/main/profile-summary-card-output/tokyonight/3-stats.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="100%" />
+</div>
+
+---
+
 ### 🔬 Research & Innovation
 
 **Project: Q.U.A.N.T.U.R.O.S (Quantum-Resistant Hybrid Cryptography)**
@@ -110,9 +122,9 @@ I am a **Research Engineer** obsessed with the gap between *theoretical security
 
 ---
 
-### 🧱 Contribution Architecture
+### 🐍 Contribution History
 <div align="center">
-  <img src="metrics.plugin.isocalendar.svg" width="100%" alt="Isometric Calendar" />
+  <img src="https://github.com/DivyanshuSingh96/DivyanshuSingh96/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake"/>
 </div>
 
 ---
