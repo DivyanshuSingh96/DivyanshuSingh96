@@ -81,7 +81,7 @@ I am a **Research Engineer** obsessed with the gap between *theoretical security
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DivyanshuSingh96&repo=stylizers&theme=tokyonight&bg_color=00000000&hide_border=true" />
   </a>
   <a href="https://github.com/DivyanshuSingh96/AnimeX">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DivyanshuSingh96&repo=AiMi-Anime-Recommendation-System&theme=tokyonight&bg_color=00000000&hide_border=true" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DivyanshuSingh96&repo=AiMi-Anime-RAG-System&theme=tokyonight&bg_color=00000000&hide_border=true" />
   </a>
 </div>
 
