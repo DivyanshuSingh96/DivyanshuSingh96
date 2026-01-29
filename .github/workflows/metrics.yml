@@ -1,8 +1,6 @@
-name: Isometric Commit Calendar
+name: GitHub Metrics (The Dashboard)
 on:
-  # 🌏 Schedule updates (once every 24h)
   schedule: [{cron: "0 0 * * *"}]
-  # 🖱️ Run manually
   workflow_dispatch:
 
 jobs:
@@ -13,15 +11,35 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your Personal Token (Crucial!)
           token: ${{ secrets.TOKEN }}
           
-          # 🖼️ Output File Name
-          filename: metrics.plugin.isocalendar.svg
+          # 🖼️ ONE GIANT IMAGE
+          filename: github-metrics.svg
           
-          # 🚫 Disable basic stats (we have them elsewhere)
-          base: ""
+          # ⚙️ CONFIGURATION
+          user: DivyanshuSingh96
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
           
-          # 🧩 Plugin: Isometric Calendar
+          # 🧩 PLUGIN 1: ISOMETRIC CALENDAR (The 3D Blocks)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          
+          # 🧩 PLUGIN 2: LANGUAGES (Donut Chart)
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: "github"
+          
+          # 🧩 PLUGIN 3: HABITS (Day vs Night)
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+          
+          # 🧩 PLUGIN 4: LINES OF CODE (History)
+          plugin_lines: yes
