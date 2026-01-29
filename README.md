@@ -41,13 +41,6 @@ I am a **Research Engineer** obsessed with the gap between *theoretical security
 
 ---
 
-### 🧱 The 3D Contribution City
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D City" />
-</div>
-
----
-
 ### 🔬 Research & Innovation
 
 **Project: Q.U.A.N.T.U.R.O.S (Quantum-Resistant Hybrid Cryptography)**
@@ -114,9 +107,9 @@ I am a **Research Engineer** obsessed with the gap between *theoretical security
 
 ---
 
-### 🐍 Contribution History
+### 🧱 Contribution Architecture
 <div align="center">
-  <img src="https://github.com/DivyanshuSingh96/DivyanshuSingh96/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake"/>
+  <img src="metrics.plugin.isocalendar.svg" width="100%" alt="Isometric Calendar" />
 </div>
 
 ---
