@@ -27,7 +27,7 @@
 I am a **Research Engineer** obsessed with the gap between *theoretical security* and *real-time performance*. My work secures the next generation of connected vehicles (V2X) against quantum threats.
 
 **Current Mission:**
-- 🔭 Building **Q.U.A.N.T.U.R.O.S** (Patent Pending): A hybrid crypto-protocol for ECVs.
+- 🔭 Building **Q.U.A.N.T.U.R.O.S** (Patent Pending): A hybrid cryptographic algorithm for ECVs.
 - 🚀 Optimizing **Semantic Search** engines to run sub-3ms queries on CPU.
 - ⚡ **Fun fact:** I optimized a cryptographic handshake from 120ms to 2ms.
 
@@ -41,21 +41,9 @@ I am a **Research Engineer** obsessed with the gap between *theoretical security
 
 ---
 
-### 🧱 Engineering Dashboard
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/main/profile-summary-card-output/tokyonight/3-stats.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="100%" />
-</div>
-
----
-
 ### 🔬 Research & Innovation
 
-**Project: Q.U.A.N.T.U.R.O.S (Quantum-Resistant Hybrid Cryptography)**
+**Project: Q.U.A.N.T.U.R.O.S (QUANTUM-BASED UNIFIED ARCHITECTURE FOR NEXT-GEN TRANSPORT USING RESILIENT ASYNCHRONOUS SECURITY)**
 > *Engineered a post-quantum cryptographic protocol for Electric Connected Vehicles (ECVs).*
 
 | **Metric** | **Performance** |
