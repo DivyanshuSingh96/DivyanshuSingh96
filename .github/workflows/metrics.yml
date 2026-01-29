@@ -1,0 +1,27 @@
+name: Isometric Commit Calendar
+on:
+  # 🌏 Schedule updates (once every 24h)
+  schedule: [{cron: "0 0 * * *"}]
+  # 🖱️ Run manually
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your Personal Token (Crucial!)
+          token: ${{ secrets.TOKEN }}
+          
+          # 🖼️ Output File Name
+          filename: metrics.plugin.isocalendar.svg
+          
+          # 🚫 Disable basic stats (we have them elsewhere)
+          base: ""
+          
+          # 🧩 Plugin: Isometric Calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
