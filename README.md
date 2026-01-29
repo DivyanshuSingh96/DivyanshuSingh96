@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=300&section=header&text=Divyanshu%20Singh&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Research%20Engineer%20%7C%20Post-Quantum%20Cryptography%20%7C%20GenAI&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f7b733&height=300&section=header&text=Divyanshu%20Singh&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Research%20Engineer%20%7C%20Post-Quantum%20Cryptography%20%7C%20GenAI&descAlignY=55&descAlign=50" width="100%"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33C4FF&center=true&vCenter=true&width=600&lines=Research+Engineer+%40+Post-Quantum;Building+Q.U.A.N.T.U.R.O.S+Protocol;Optimizing+Hybrid+Cryptographic+Logic;Architecting+Scalable+GenAI+Systems" alt="Typing SVG" />
