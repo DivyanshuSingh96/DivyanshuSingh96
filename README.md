@@ -33,7 +33,7 @@ I am a **Research Engineer** obsessed with the gap between *theoretical security
 
 <p align="left">
   <img src="https://img.shields.io/badge/Patent-Pending-FFD700?style=flat-square&logo=google-scholar&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cryptography-Post--Quantum-black?style=flat-square&logo=auth0" />
+  <img src="https://img.shields.io/badge/Cryptography-Post--Quantum-FFD700?style=flat-square&logo=auth0" />
   <img src="https://img.shields.io/badge/Performance-Critical-success?style=flat-square&logo=speedtest" />
 </p>
 
