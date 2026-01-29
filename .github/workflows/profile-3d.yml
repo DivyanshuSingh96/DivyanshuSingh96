@@ -8,27 +8,26 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
-    
-    # 🚨 THIS IS THE MISSING PIECE 🚨
-    permissions: 
-      contents: write
-      
     steps:
       - uses: actions/checkout@v3
+      
+      # Step 1: Generate the Images using your PERSONAL Token
+      # (This allows it to see ALL your repos, not just this one)
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           
+      # Step 2: Push the changes using the Standard Token
+      # (We use the standard token to push, but the PAT to generate)
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          # Safety check: Only commit if files actually changed
           if [[ -n $(git status -s) ]]; then
-            git commit -m "generated"
+            git commit -m "generated 3d graph"
             git push
           else
-            echo "No changes to commit. Skipping push."
+            echo "No changes to commit."
           fi
