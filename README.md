@@ -21,12 +21,11 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 
-I am a **Research Engineer** specializing in the intersection of **Cryptography** and **High-Performance Computing**. My work focuses on securing the next generation of connected vehicles (V2X) against quantum threats while maintaining real-time latency constraints.
+I am a **Research Engineer** specializing in the intersection of **Cryptography** and **High-Performance Computing**. My work focuses on securing the next generation of connected vehicles (V2X) against quantum threats.
 
 * 🔭 I’m currently working on **Q.U.A.N.T.U.R.O.S** (Patent Pending).
 * 🚀 I’m optimizing **Semantic Search Engines** using FAISS & RAG.
 * ⚡ **Fun fact:** I optimized a cryptographic handshake from 120ms to 2ms.
-* 📫 **Reach me at:** `divyanshu.singh144400@gmail.com`
 
 <br clear="right"/>
 
@@ -53,15 +52,11 @@ I am a **Research Engineer** specializing in the intersection of **Cryptography*
   <br><br>
   <p><b>Backend & Infrastructure</b></p>
   <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,docker,linux,git,aws&theme=dark" />
-  <br><br>
-  <p><b>Frontend & Design</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&theme=dark" />
 </div>
 
 ---
 
 ### 🏆 Achievements
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DivyanshuSingh96&theme=tokyonight&no-frame=true&margin-w=15&row=1" width="100%" />
 </div>
@@ -69,7 +64,6 @@ I am a **Research Engineer** specializing in the intersection of **Cryptography*
 ---
 
 ### 🐍 Contribution History
-
 <div align="center">
   <img src="https://github.com/DivyanshuSingh96/DivyanshuSingh96/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake"/>
 </div>
@@ -82,13 +76,14 @@ I am a **Research Engineer** specializing in the intersection of **Cryptography*
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshuSingh96&bg_color=0d1117&color=00f2ff&line=33C4FF&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
   <br><br>
 
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=DivyanshuSingh96&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true&cache_seconds=86400" width="80%" alt="stats" />
-  <br>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DivyanshuSingh96&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8&exclude_repo=github-readme-stats&cache_seconds=86400" width="80%" alt="languages" />
-</div>
-
----
-
-<div align="center">
-  <i>"Optimizing the gap between theoretical security and real-time performance."</i>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=DivyanshuSingh96&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true" width="100%" alt="stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DivyanshuSingh96&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6&exclude_repo=github-readme-stats" width="100%" alt="languages" />
+      </td>
+    </tr>
+  </table>
 </div>
