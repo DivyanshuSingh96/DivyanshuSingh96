@@ -1,0 +1,59 @@
+name: Profile cards
+
+# Rebuilds the README's SVG cards and publishes
+# them to the `output` branch, which the README loads its images from.
+
+on:
+  schedule:
+    - cron: "17 2 * * *"   # daily, 07:47 IST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "assets/**"
+      - ".github/workflows/profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      RAW: https://raw.githubusercontent.com/${{ github.repository }}/output
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - run: pip install -r scripts/requirements.txt
+
+      # Last good data, so one failed fetch never blanks a card.
+      - name: Fetch previous data
+        run: curl -fsSL "$RAW/data.json" -o previous.json || true
+
+      - name: Build cards
+        env:
+          # Optional: a fine-grained token in the PROFILE_TOKEN secret also counts private contributions.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+        run: python scripts/build_profile.py --out dist --previous previous.json
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          jekyll: false
+          commit_message: Update profile cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

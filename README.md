@@ -1,124 +1,62 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=false&height=300&section=header&text=Divyanshu%20Singh&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Research%20Engineer%20%7C%20Post-Quantum%20Cryptography%20%7C%20GenAI&descAlignY=55&descAlign=50" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/output/header-dark.svg">
+  <img alt="Divyanshu Singh. Research engineer working where post-quantum security meets real-time performance." src="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/output/header-light.svg" width="100%">
+</picture>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33C4FF&center=true&vCenter=true&width=600&lines=Research+Engineer+%40+Post-Quantum;Building+Q.U.A.N.T.U.R.O.S+Protocol;Optimizing+Hybrid+Cryptographic+Logic;Architecting+Scalable+GenAI+Systems" alt="Typing SVG" />
-  </a>
-</div>
+I build things that have to be secure and fast at the same time. Right now that's a post-quantum protocol for connected vehicles, semantic search that answers in under 3 ms on a CPU, and Machyon, an image downloader I spent a year getting right.
 
-<div align="center">
-  <a href="https://linkedin.com/in/divyanshu-singh-pythonista">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:divyanshu.singh144400@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://github.com/DivyanshuSingh96">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</div>
+Say hello on [LinkedIn](https://linkedin.com/in/divyanshu-singh-pythonista) or at [divyanshu.singh144400@gmail.com](mailto:divyanshu.singh144400@gmail.com).
 
----
+## What I've shipped
 
-### 👨‍💻 The Engineer's Log
+<a href="https://github.com/DivyanshuSingh96/machyon">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/output/machyon-dark.svg">
+    <img alt="Machyon: every image, Mach speed, zero lost. Async image downloader for Python. pip install machyon" src="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/output/machyon-light.svg" width="100%">
+  </picture>
+</a>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="180" />
+Machyon started in the Amazon ML Challenge, when downloading 263,859 images cost my team hours we didn't have. [Read the docs](https://divyanshusingh96.github.io/machyon/) or meet [Opa](https://divyanshusingh96.github.io/machyon/project/meet-opa/), its five-eyed mascot.
 
-I am a **Research Engineer** obsessed with the gap between *theoretical security* and *real-time performance*. My work secures the next generation of connected vehicles (V2X) against quantum threats.
+<a href="https://github.com/DivyanshuSingh96/AiMi-Anime-RAG-System">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/output/project-aimi-anime-rag-system-dark.svg">
+    <img alt="AiMi: anime search and recommendations built on retrieval, served from a CPU." src="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/output/project-aimi-anime-rag-system-light.svg" width="100%">
+  </picture>
+</a>
+<a href="https://github.com/DivyanshuSingh96/AnimeX">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/output/project-animex-dark.svg">
+    <img alt="AnimeX" src="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/output/project-animex-light.svg" width="100%">
+  </picture>
+</a>
+<a href="https://github.com/DivyanshuSingh96/stylizers">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/output/project-stylizers-dark.svg">
+    <img alt="stylizers: turns a name into a styled name. My first PyPI library, written in school." src="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/output/project-stylizers-light.svg" width="100%">
+  </picture>
+</a>
 
-**Current Mission:**
-- 🔭 Building **Q.U.A.N.T.U.R.O.S** (Patent Pending): A hybrid cryptographic algorithm for ECVs.
-- 🚀 Optimizing **Semantic Search** engines to run sub-3ms queries on CPU.
-- ⚡ **Fun fact:** I optimized a cryptographic handshake from 120ms to 2ms.
+## Research
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Patent-Pending-FFD700?style=flat-square&logo=google-scholar&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cryptography-Post--Quantum-FFD700?style=flat-square&logo=auth0" />
-  <img src="https://img.shields.io/badge/Performance-Critical-success?style=flat-square&logo=speedtest" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/output/quanturos-dark.svg">
+  <img alt="QUANTUROS, patent pending: a hybrid post-quantum cryptographic protocol for electric connected vehicles. Handshake latency cut from 120 ms to about 2 ms; 257 MB/s encryption and about 700 MB/s decryption throughput." src="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/output/quanturos-light.svg" width="100%">
+</picture>
 
-<br clear="right"/>
+Connected vehicles talk to each other in milliseconds, and quantum computers will eventually break the key exchange most of them rely on today. QUANTUROS combines ECDH with post-quantum primitives, and the work has been making that combination fast enough for a vehicle: the handshake went from 120 ms to about 2 ms.
 
----
+## Tools I reach for
 
-### 🔬 Research & Innovation
+**Machine learning:** Python, PyTorch, TensorFlow, scikit-learn, OpenCV<br>
+**Backend:** FastAPI, Django, PostgreSQL, Redis, Docker, AWS, Linux<br>
+**Everyday:** Git, VS Code, Vim, Bash, Figma
 
-**Project: Q.U.A.N.T.U.R.O.S (QUANTUM-BASED UNIFIED ARCHITECTURE FOR NEXT-GEN TRANSPORT USING RESILIENT ASYNCHRONOUS SECURITY)**
-> *Engineered a post-quantum cryptographic protocol for Electric Connected Vehicles (ECVs).*
+## The last year on GitHub
 
-| **Metric** | **Performance** |
-| :--- | :--- |
-| **Latency** | Reduced by **98%** (120ms → ~2ms) |
-| **Throughput** | **257 MB/s** (Enc) / **~700 MB/s** (Dec) |
-| **Protocol** | Hybrid ECDH + Post-Quantum Primitives |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/output/activity-dark.svg">
+  <img alt="Contributions in the last year, drawn as a lattice with one dot per day, plus the languages I write most." src="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/output/activity-light.svg" width="100%">
+</picture>
 
----
-
-### 🛠️ The Arsenal
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90"><b>AI & GenAI</b></td>
-      <td><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td align="center" width="90"><b>Backend</b></td>
-      <td><img src="https://skillicons.dev/icons?i=fastapi,django,postgres,redis,docker,linux,aws&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td align="center" width="90"><b>Tools</b></td>
-      <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vim,bash,figma&theme=dark" /></td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📂 Featured Projects
-<div align="center">
-  <a href="https://github.com/DivyanshuSingh96/stylizers">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DivyanshuSingh96&repo=stylizers&theme=tokyonight&bg_color=00000000&hide_border=false" />
-  </a>
-  <a href="https://github.com/DivyanshuSingh96/AiMi-Anime-RAG-System">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DivyanshuSingh96&repo=AiMi-Anime-RAG-System&theme=tokyonight&bg_color=00000000&hide_border=false" />
-  </a>
-  <a href="https://github.com/DivyanshuSingh96/AnimeX">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DivyanshuSingh96&repo=AnimeX&theme=tokyonight&bg_color=00000000&hide_border=false" />
-  </a>
-</div>
-
----
-
-### ⚡ Engineering Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshuSingh96&bg_color=0d1117&color=00f2ff&line=33C4FF&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
-  <br><br>
-
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=DivyanshuSingh96&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true" width="100%" alt="stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DivyanshuSingh96&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6&exclude_repo=github-readme-stats" width="100%" alt="languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🐍 Contribution History
-<div align="center">
-  <img src="https://github.com/DivyanshuSingh96/DivyanshuSingh96/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DivyanshuSingh96&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge"/>
-  <br>
-  <i>"Optimizing the gap between theoretical security and real-time performance."</i>
-</div>
+<sub>Cards are drawn by <a href=".github/workflows/profile.yml">a GitHub Action</a> every morning, set in <a href="https://github.com/ateliertriay/bricolage">Bricolage Grotesque</a>.</sub>
