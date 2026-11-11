@@ -37,15 +37,6 @@ Machyon started in the Amazon ML Challenge, when downloading 263,859 images cost
   </picture>
 </a>
 
-## Research
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/output/quanturos-dark.svg">
-  <img alt="QUANTUROS, patent pending: a hybrid post-quantum cryptographic protocol for electric connected vehicles. Handshake latency cut from 120 ms to about 2 ms; 257 MB/s encryption and about 700 MB/s decryption throughput." src="https://raw.githubusercontent.com/DivyanshuSingh96/DivyanshuSingh96/output/quanturos-light.svg" width="100%">
-</picture>
-
-Connected vehicles talk to each other in milliseconds, and quantum computers will eventually break the key exchange most of them rely on today. QUANTUROS combines ECDH with post-quantum primitives, and the work has been making that combination fast enough for a vehicle: the handshake went from 120 ms to about 2 ms.
-
 ## Tools I reach for
 
 **Machine learning:** Python, PyTorch, TensorFlow, scikit-learn, OpenCV<br>
